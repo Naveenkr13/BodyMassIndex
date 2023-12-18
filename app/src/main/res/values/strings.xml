@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">bmi</string>
+<!--    CHART NAME HERE-->
+    <string name="ca"> CATEGORY </string>
+
+    <string name="a">  UNDERWEIGHT            </string>
+    <string name="b"> Severe  Underweight   </string>
+    <string name="c"> Moderate Underweight</string>
+    <string name="d"> Mild  Underweight        </string>
+    <string name="e">  NORMAL RANGE         </string>
+    <string name="f">  OVERWEIGHT               </string>
+    <string name="g"> Pres-Obese                   </string>
+    <string name="h"> OBESE                            </string>
+    <string name="i"> Obese Class 1               </string>
+    <string name="j"> Obese Class 2               </string>
+    <string name="k"> Obese Class 3               </string>
+
+<!--chart number filll here-->
+    <string name="bmir">BMI</string>
+    <string name="m">Lessthan 18.5</string>
+    <string name="n">LessThan 16</string>
+    <string name="o">16.0 – 16.99   </string>
+    <string name="p">17.0 – 18.49   </string>
+    <string name="q">18.5 –24.9      </string>
+    <string name="r">       ≥25            </string>
+    <string name="s">  25.0 –29.99  </string>
+    <string name="t">       ≥30            </string>
+    <string name="u">   30 – 34.99    </string>
+    <string name="v">   35 – 39.99    </string>
+    <string name="w">        ≥40           </string>
+
+
+</resources>
